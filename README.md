@@ -1,6 +1,6 @@
 # bitmap_stego_builder
 
-This is a small command line utility that leverages a common stegonography technique by convertin raw bytes into pixels in a bitmap.
+This is a compact command line tool that employs a widely used steganography method, which entails encoding raw bytes as pixels within a bitmap image.  Threat actors leverage this technique to store staged payloads for post execution.
 
 ## Command line options
 
