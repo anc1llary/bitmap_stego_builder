@@ -14,7 +14,7 @@ This is a compact command line tool that employs a widely used steganography met
 
 ## Media
 
-![ChatGPT OSINT Plugin Demo](https://github.com/anc1llary/bitmap_stego_builder/demo.png)
+![ChatGPT OSINT Plugin Demo](https://github.com/anc1llary/bitmap_stego_builder/static/demo.png)
 
 
 ## Changelog
