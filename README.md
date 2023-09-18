@@ -21,3 +21,4 @@ This is a compact command line tool that employs a widely used steganography met
 
 - MSDN (https://learn.microsoft.com/en-us/dotnet/api/system.drawing.bitmap?view=dotnet-plat-ext-7.0)
 - Generative AI for modification to some functions and comments.
+- ASCII Logo Generator (https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
