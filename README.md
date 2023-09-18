@@ -12,6 +12,11 @@ This is a compact command line tool that employs a widely used steganography met
 - -o [filename.bmp] Set the outfile bitmap name.       
 - -p, --psychedelic Because what is a console application without rainbow colours?
 
+## Media
+
+![ChatGPT OSINT Plugin Demo](https://github.com/anc1llary/bitmap_stego_builder/demo.png)
+
+
 ## Changelog
 
 - Add functionality to select various channels available, right now only red channel is supported.
