@@ -12,7 +12,7 @@ This is a small command line utility that leverages a common stegonography techn
 - -o [filename.bmp] Set the outfile bitmap name.       
 - -p, --psychedelic Because what is a console application without rainbow colours?
 
-##Changelog
+## Changelog
 
 - Add functionality to select various channels available, right now only red channel is supported.
 - Create functionality for junk bytes to be thrown into un-used channels for further obfsucation.
