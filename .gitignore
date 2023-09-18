@@ -1,0 +1,61 @@
+# Ignore Visual Studio Code files
+.vscode/
+.vs/
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore .NET Core and Visual Studio files
+*.dll
+*.exe
+*.pdb
+*.log
+*.vscode
+.vs
+*.nupkg
+*.pfx
+*.snk
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore packages directory
+packages/
+
+# Ignore the .NET project user-specific files
+*.user
+
+# Ignore Rider's .idea folder
+.idea/
+
+# Ignore Visual Studio's .vscode folder
+.vscode/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet dependency folders
+**/packages/*
+*.sqlite
+
+# Ignore the .NET Core tools folder
+**/.dotnet/
+
+# Ignore the Visual Studio Installer file
+.vs2019/
+.vs2017/
+*.VisualState.xml
